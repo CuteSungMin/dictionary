@@ -1,0 +1,21 @@
+.dicList{
+    padding: 50px 20px;
+    background-color: #bacec1;
+}
+.dicList_title{
+    display: flex;
+    align-items: center;
+}
+.dicList_title>p{
+    padding: 20px 50px;
+    border-radius: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #f6f4e8;
+}
+.select{
+    border-radius: 30px;
+    padding: 20px 20px;
+    width: 60%;
+    margin-right: 20px;
+}

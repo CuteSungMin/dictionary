@@ -1,0 +1,33 @@
+.dicItem_content h1{
+    color: #fff;
+    font-size: 36px;
+    margin: 20px 0 10px;
+}
+.dicItem_content p{
+    margin: 10px 20px;
+}
+.btn_wrap{
+    margin-top: 10px;
+    text-align: center;
+}
+.btn_wrap>button{
+    padding: 10px 30px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.save_btn{
+    background-color: #f6f4e8;
+
+}
+.cancel_btn{
+    background-color: #1d3124;
+    color: #fff;
+    margin-left: 10px;
+}
+.text_write{
+    width: 100%;
+    color: #fff;
+    background-color: #bacec1;
+}

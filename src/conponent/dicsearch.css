@@ -1,0 +1,20 @@
+.dicsearch_wrap{
+    padding: 20px 20px;
+    background-color: #f6f4e8;
+}
+.dicsearch_wrap>input{
+    width: 60%;
+    padding: 20px 20px;
+    border-radius: 30px;
+    margin-right: 20px;
+    font-size: 16px;
+    background-color: #fff;
+}
+.dicsearch_wrap>button{
+    width: 20%;
+    padding: 20px 20px;
+    border-radius: 40px;
+    font-size: 16px;
+    background-color: #bacec1;
+    cursor: pointer;
+}

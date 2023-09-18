@@ -1,0 +1,10 @@
+*{
+  text-decoration: none; box-sizing: border-box;
+  padding: 0; margin: 0;
+  outline: none; list-style: none;
+  border: none;
+}
+.w800{
+  width: 800px;
+  margin: 0 auto;
+}
