@@ -180,7 +180,7 @@ function App() {
       <DicStateContext.Provider value={dics}>
         <DicContext.Provider value={memoizedDic}>
         <Routes>
-          <Route path='/' element={<Main/>}></Route>
+          <Route path='/dictionary' element={<Main/>}></Route>
           <Route path='/write' element={<Write/>}></Route>
           <Route path='/search' element={<DicSearch/>}></Route>
         </Routes>
