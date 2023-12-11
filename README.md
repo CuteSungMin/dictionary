@@ -8,4 +8,4 @@
 # 일주일 소요
 사전의 등록, 수정, 삭제, 검색, 옵션 선택 기능들을 만들었습니다.
 <p>프론트엔드 사전 https://cutesungmin.github.io/dictionary/</p>
-<p> - React를 처음 활용하여 만들어 봤습니다.</p>
+<p> 🙂 React를 처음 활용하여 만들어 봤습니다.</p>
