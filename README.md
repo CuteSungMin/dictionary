@@ -4,4 +4,4 @@
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /></span>
 <br>
 <br>
-사전의 기본적인 등록, 수정, 삭제, 검색, 옵션 선택 기능들을 만들었습니다.
+사전의 등록, 수정, 삭제, 검색, 옵션 선택 기능들을 만들었습니다.
