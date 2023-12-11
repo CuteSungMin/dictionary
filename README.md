@@ -3,4 +3,5 @@
 <span><img src="https://img.shields.io/badge/Java script-F7DF1E?style=flat&logo=javascript&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /></span>
 <br>
-사전 등록, 수정, 삭제이 가능합니다.
+<br>
+등록, 수정, 삭제, 검색, 옵션 선택 기능들을 만들었습니다.
